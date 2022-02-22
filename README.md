@@ -45,4 +45,5 @@ and/or the tests of the peer you are evaluating. </br>
 |   ft_strnstr.c, ft_strrchr.c, ft_strchr.c, ft_memchr.c   | Search functions |   C <unistd.h> |
 |   ft_substr.c   | The function copies the specified number of characters from the string index |   C <unistd.h>, malloc |
 |   ft_split.c   | Divides the string by separator |   C <unistd.h> |
-|      | implementation of printf behavior |   C <unistd.h> |
+|   ft_putnbr_fd.c   | Converts int to str |   C <unistd.h> |
+|    ft_memset.c  | Sets the first num bytes of the block of memory pointed by ptr to the specified value (interpreted as an unsigned char). |   C <unistd.h> |
