@@ -3,6 +3,8 @@ libft (all func 2021)
 
 A library of standard C language functions. It is started by the make command
 
+For detailed information, refer to the **[subject of this project](https://github.com/ilnrzakirov/libft/blob/main/en.subject.pdf)**
+
 <br> • Your project must be written in C. </br>
 <br> • Your project must be written in accordance with the Norm. If you have bonus
 files/functions, they are included in the norm check and you will receive a 0 if there
